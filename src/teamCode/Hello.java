@@ -3,7 +3,7 @@ package teamCode;
 public class Hello {
 
 	public Hello() {
-		// TODO Auto-generated constructor stub
+		System.out.println("안녕하세요");
 	}
 
 }
